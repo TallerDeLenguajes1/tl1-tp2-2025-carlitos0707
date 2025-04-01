@@ -1,0 +1,4 @@
+2) f) 
+    No se puede ver el archivo. No se lo ve ya que estoy posicionado en la branch main y el archivo solo esta en la branch de opcion 2
+    Graficamente podemos ver una linea naranja (Opcion_2) que se separa de la linea principal (Main) 
+    Luego del merge se ve como la lina naranja que se separo se vuelve a unir a la rama principal
